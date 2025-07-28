@@ -1,0 +1,12 @@
+def main():
+    nome = "heron"
+    idade = 181
+    altura = 1.73
+    isMasculino = True
+    print("0 ", nome, "tem ", idade, " de idades,", altura ," de altura")
+    if isMasculino:
+        print("ele é um homem")
+    else:
+        print("É uma mulher") 
+    return 0
+main()
