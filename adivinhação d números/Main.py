@@ -6,7 +6,7 @@ def main():
 
     numero = -1
 
-    while numero != numeroAle
+    while numero != numeroAle:
         numero = int (input("digite um numero"))
 
         if numero < numeroAle:
